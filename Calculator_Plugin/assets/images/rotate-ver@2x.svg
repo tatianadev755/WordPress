@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        stroke: #646b81;
+      }
+
+      .cls-2 {
+        stroke: #e8ebf5;
+      }
+    </style>
+  </defs>
+  <g id="rotate-ver">
+    <g>
+      <path id="Rounded_Rectangle_4" data-name="Rounded Rectangle 4" class="cls-1" d="M567,1084h19a4,4,0,0,0,4-4v-22a4,4,0,0,0-4-4H567" transform="translate(-500 -996)"/>
+      <path id="Rounded_Rectangle_4-2" data-name="Rounded Rectangle 4" class="cls-1" d="M584,1049v-10a4,4,0,0,0-4-4H568" transform="translate(-500 -996)"/>
+      <path class="cls-1" d="M572,1030l-5,5,5,5" transform="translate(-500 -996)"/>
+      <path id="Rounded_Rectangle_4-3" data-name="Rounded Rectangle 4" class="cls-2" d="M534,1028h22a4,4,0,0,1,4,4v48a4,4,0,0,1-4,4H534a4,4,0,0,1-4-4v-48A4,4,0,0,1,534,1028Z" transform="translate(-500 -996)"/>
+    </g>
+  </g>
+</svg>

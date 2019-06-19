@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #292e38;
+        stroke-linecap: round;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="redo">
+    <g>
+      <path class="cls-1" d="M566.915,851.011H546.457c-7.438,0-13.467-7.711-13.467-15a13.33,13.33,0,0,1,13.46-13.2h40.379" transform="translate(-500 -776)"/>
+      <path class="cls-1" d="M578.776,832.1l8.819-9.06-8.819-9.06" transform="translate(-500 -776)"/>
+    </g>
+  </g>
+</svg>

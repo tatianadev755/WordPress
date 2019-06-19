@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #3a4054;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        opacity: 0.3;
+      }
+    </style>
+  </defs>
+  <g id="mobile">
+    <g>
+      <path id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-1" d="M1194.25,1040.25h51.5a4,4,0,0,1,4,4v23.5a4,4,0,0,1-4,4h-51.5a4,4,0,0,1-4-4v-23.5A4,4,0,0,1,1194.25,1040.25Z" transform="translate(-1160 -996)"/>
+      <path class="cls-2" d="M1200.07,1071.06v-30.12" transform="translate(-1160 -996)"/>
+      <path class="cls-2" d="M1242,1071v-30" transform="translate(-1160 -996)"/>
+    </g>
+  </g>
+</svg>

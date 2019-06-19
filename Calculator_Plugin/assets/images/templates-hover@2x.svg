@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #646b81;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="templates-hover">
+    <path class="cls-1" d="M1002,1037h18v12h-18v-12Zm0,15h18v18h-18v-18Zm-21-15h18v38H981v-38Z" transform="translate(-940 -996)"/>
+  </g>
+</svg>

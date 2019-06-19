@@ -1,0 +1,83 @@
+.jssor_slider_outer_container {
+	margin: 10px auto;
+	position: relative;
+}
+
+.jssor_slider_slides { 
+	position: absolute; 
+	left: 0px; 
+	top: 0px;
+	overflow: hidden;
+}
+
+.jssor_slider_caption {
+	position: absolute; 
+	top: 20px; 
+	left: 20px; 
+	height: 30px; 
+	color: #ffffff; 
+	font-size: 20px; 
+	line-height: 30px;
+}
+
+.jssor_slider_desc_outer_div {
+	position: absolute;
+	left: 0px;
+	height: 50px;
+}
+
+.jssor_slider_desc_inner_div {
+	position: absolute; 
+	top: 0px; 
+	left: 0px;
+	height: 50px;
+	background-color: Black; 
+	opacity: 0.5; 
+	filter: alpha(opacity=50);
+}
+
+.jssor_slider_desc_text_div {
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	height: 30px;
+	color: White; 
+	font-size: 16px; 
+	font-weight: bold; 
+	line-height: 30px; 
+	text-align: center;
+}
+
+.jssor_slider_desc_text_div a {
+	text-decoration: none;
+}
+
+.jssor_slider_nav_div {
+	position: absolute; 
+	bottom: 4px;
+}
+/*navigation*/
+.jssora03l                  (normal)
+.jssora03r                  (normal)
+.jssora03l:hover            (normal mouseover)
+.jssora03r:hover            (normal mouseover)
+.jssora03l.jssora03ldn      (mousedown)
+.jssora03r.jssora03rdn      (mousedown)
+*/
+.jssora03l, .jssora03r {
+	display: block;
+	position: absolute;
+	/* size of arrow element */
+	width: 55px;
+	height: 55px;
+	cursor: pointer;
+	background: url(a03.png) no-repeat;
+	overflow: hidden;
+}
+.jssora03l { background-position: -3px -33px; }
+.jssora03r { background-position: -63px -33px; }
+.jssora03l:hover { background-position: -123px -33px; }
+.jssora03r:hover { background-position: -183px -33px; }
+.jssora03l.jssora03ldn { background-position: -243px -33px; }
+.jssora03r.jssora03rdn { background-position: -303px -33px; }
+/*navigation*/

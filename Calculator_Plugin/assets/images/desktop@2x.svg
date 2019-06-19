@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #3a4054;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        opacity: 0.3;
+      }
+    </style>
+  </defs>
+  <g id="desktop">
+    <g>
+      <path id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-1" d="M1185.91,584.906h69.18a4,4,0,0,1,4,4v42.813a4,4,0,0,1-4,4h-69.18a4,4,0,0,1-4-4V588.906A4,4,0,0,1,1185.91,584.906Z" transform="translate(-1160 -556)"/>
+      <path id="Rounded_Rectangle_2-2" data-name="Rounded Rectangle 2" class="cls-2" d="M1258.53,625.209h-76.06" transform="translate(-1160 -556)"/>
+      <path id="Rounded_Rectangle_2-3" data-name="Rounded Rectangle 2" class="cls-1" d="M1233.07,635.813l4.33,7.8c1.02,1.837-.52,3.5-3.57,3.5h-26.65c-3.05,0-4.59-1.659-3.57-3.5l4.33-7.8" transform="translate(-1160 -556)"/>
+    </g>
+  </g>
+</svg>

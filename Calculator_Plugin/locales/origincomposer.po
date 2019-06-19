@@ -1,0 +1,1345 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: untitled folder/shortcodes/or_post_type_list.php:90
+msgid ", "
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:283
+msgid "A brief description will appear when you hover the function icon"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:79
+msgid "About Us"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:3
+msgid "Access Denied!"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:957
+msgid "Add"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:992
+msgid "Add Element"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:898
+#: untitled folder/includes/or.templates.php:974
+#: untitled folder/includes/or.js_languages.php:8
+msgid "Add Elements"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:32
+msgid "Add New"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.sections.php:21
+msgid "Add New Section"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1223
+#: untitled folder/includes/or.templates.php:1284
+msgid "Add Node"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:51
+msgid "Add a 2-column row"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:57
+msgid "Add a 3-column row"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:64
+msgid "Add a 4-column row"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:46
+msgid "Add an 1-column row"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:905
+msgid "Add elements to bottom of this column"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:884
+msgid "Add elements to top of this column"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.param.types.php:892
+msgid "Add new Group"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:552
+msgid "Add new Profile"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:452
+msgid "Add to an available section"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:465
+msgid "Add to this section"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:211
+msgid "Add your custom CSS code to modify or apply additional styling to the Front-End"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.param.types.php:911
+msgid "Add your link"
+msgstr ""
+
+#. Text in function
+#: untitled folder/includes/or.settings.php:231
+msgid "After submitting license informations, please go to %s to update"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:649
+msgid "Apply Now"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:599
+#: untitled folder/includes/or.js_languages.php:6
+msgid "Are you sure?"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:22
+msgid "Are you sure? All sections of this profile will also be deleted."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:29
+msgid "Are you sure? Once it is deleted, you can not able to restore."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:20
+msgid "Are you sure? You did not upload screenshot."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:31
+msgid "Attribute Name"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.sections.php:35
+msgid "Back to Sections List"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:87
+msgid "Base Elements"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:226
+#: untitled folder/includes/or.js_languages.php:38
+msgid "Beautifier"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:138
+msgid "Besides page and post above, you can set any content type to be available with originbuilder such as gallery, contact form and so on"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:213
+msgid "Body Class"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:33
+msgid "Box Style"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.param.types.php:250
+msgid "Browse Image"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.param.types.php:406
+msgid "Browse Images"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:42
+msgid "Browse all elements"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.param.types.php:613
+#: untitled folder/includes/or.js_languages.php:34
+msgid "CSS Code"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:601
+#: untitled folder/includes/or.js_languages.php:5
+msgid "Cancel"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1070
+msgid "Cancel & close popup"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.sections.php:60
+msgid "Categories"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:18
+msgid "Category"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:596
+msgid "Check Document"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:52
+msgid "Choose Images"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:21
+msgid "Classic Mode"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:109
+msgid "Clipboard"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:652
+msgid "Close Popup"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1149
+msgid "Column"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1155
+#: untitled folder/includes/or.templates.php:1225
+msgid "Columns"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:41
+msgid "Content Saving..."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:30
+msgid "Content Settings"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:941
+#: untitled folder/includes/or.templates.php:1020
+msgid "Copy"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1141
+msgid "Copy content in the last column to the newly-created column. This option is available when you choose to set the column amount greater than the current column amount"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:940
+#: untitled folder/includes/or.templates.php:1019
+msgid "Copy this element"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:824
+msgid "Copy this row"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:45
+#: untitled folder/includes/or.js_languages.php:47
+#: untitled folder/includes/or.js_languages.php:49
+#: untitled folder/includes/or.js_languages.php:51
+msgid "Could not find mapping for this element."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:494
+#: untitled folder/includes/or.templates.php:673
+msgid "Create Now"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:470
+msgid "Create a new section"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:203
+#: untitled folder/includes/or.templates.php:224
+msgid "Css Code"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:406
+msgid "Currently no sections in this profile"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:944
+#: untitled folder/includes/or.templates.php:1023
+msgid "Cut"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:943
+#: untitled folder/includes/or.templates.php:1022
+msgid "Cut this element"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:947
+#: untitled folder/includes/or.templates.php:1026
+#: untitled folder/includes/or.templates.php:1051
+msgid "Delete"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.sections.php:75
+msgid "Delete This Section"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:145
+msgid "Delete selected items"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:888
+msgid "Delete this column"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:946
+#: untitled folder/includes/or.templates.php:1025
+msgid "Delete this element"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1309
+msgid "Delete this group"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.param.types.php:301
+#: untitled folder/includes/or.param.types.php:265
+#: untitled folder/includes/or.param.types.php:330
+#: untitled folder/includes/or.param.types.php:406
+#: untitled folder/includes/or.param.types.php:421
+msgid "Delete this image"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:564
+msgid "Delete this profile"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:798
+msgid "Delete this row"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:444
+msgid "Delete this section"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:198
+msgid "Document"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1045
+#: untitled folder/includes/or.templates.php:1219
+msgid "Double"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1141
+msgid "Double content"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1013
+msgid "Double this element"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1313
+msgid "Double this group"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:806
+msgid "Double this row"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:978
+msgid "Double this section"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:934
+msgid "Double this sections"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:569
+#: untitled folder/includes/or.templates.php:587
+msgid "Download this profile"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:197
+msgid "Drag and drop to arrange items, click to select an item. Read more"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:810
+msgid "Drag and drop to arrange this row"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:926
+msgid "Drag and drop to arrange this section"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.param.types.php:400
+#: untitled folder/includes/or.param.types.php:421
+msgid "Drag image to sort"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1002
+msgid "Drag to move this element"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1048
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1009
+msgid "Edit this element"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.sections.php:28
+#: untitled folder/includes/or.sections.php:117
+#: untitled folder/includes/or.templates.php:442
+msgid "Edit this section"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1211
+msgid "Edit with Editor"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:277
+msgid "Enter Origin Builder license key from CodeCanyon"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:474
+msgid "Enter category name"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:471
+msgid "Enter title"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:250
+msgid "Enter your Envato username."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:262
+msgid "Enter your Secret API Key"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:244
+msgid "Envato Username"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:26
+msgid "Error! Data structure has been broken."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:54
+msgid "Error: Post ID not found."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:55
+msgid "Error: Post type not found."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:308
+msgid "Even When you are editting an element, do not need to close editing popup"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:816
+msgid "Expand / Collapse this row"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:586
+msgid "External"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:24
+msgid "File type must be .mini"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.sections.php:24
+#: untitled folder/includes/or.sections.php:125
+#: untitled folder/includes/or.templates.php:614
+msgid "Filter by Category"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.sections.php:133
+msgid "First Category"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1143
+msgid "For example: Currently there are 2 columns and you are going to set 1 column"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1141
+msgid "For example: Currently there is 1 column and you are going to set 2 columns"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:26
+msgid "FrontEnd Editor"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:70
+msgid "General Settings"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:646
+msgid "Go Back"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:692
+msgid "Grid"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.param.types.php:610
+msgid "HTML Code"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1066
+msgid "Help"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:53
+msgid "Hit Enter to save, ESC to cancel."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:264
+msgid "How to find API Key"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:279
+msgid "How to find Purchase Code"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:298
+msgid "How to find Theme Purchase Code"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:165
+msgid "If you load icons, they will display on front-end and vice versa."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:296
+msgid "If you\\'ve bought a theme which was included originbuilder, You can use the Purchase Code of the theme to update originbuilder"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:141
+msgid "If your"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:876
+msgid "Increasing the width of this column to the left"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:892
+msgid "Increasing the width of this column to the right"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.param.types.php:113
+msgid "Insert Media"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:629
+#: untitled folder/includes/or.templates.php:630
+msgid "Install this section"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:77
+msgid "Installation of sections which were added"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:304
+msgid "Instant Save"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1143
+msgid "Keep content"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1143
+msgid "Keep content of the removed column and transfer it to the last existing column"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:237
+msgid "Keep the viewport in a reasonable place while a popup is opened"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:260
+msgid "Keep the web page unmoved while scrolling a popup"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:684
+msgid "Layout Display"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:696
+msgid "List"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:532
+msgid "List profiles"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:537
+msgid "List sections of activated profile"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:155
+msgid "Load Icons in the Front-End"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:398
+msgid "Load More"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.sections.php:29
+msgid "Loading"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:36
+msgid "or Box - CSS Code"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:35
+msgid "or Box - HTML Code"
+msgstr ""
+
+#. Text in function
+#: untitled folder/includes/or.actions.php:210
+msgid "Origin Builder"
+msgstr ""
+
+#. Text in function
+#: untitled folder/includes/or.actions.php:210
+msgid "Origin Builder WP"
+msgstr ""
+
+#. Text in function
+#: untitled folder/includes/or.actions.php:210
+msgid "builder Settings"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:271
+msgid "originbuilder License Key"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:936
+#: untitled folder/includes/or.templates.php:1030
+msgid "More Actions"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:951
+msgid "More actions"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1004
+#: untitled folder/includes/or.templates.php:1042
+msgid "Move"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:668
+msgid "New profile"
+msgstr ""
+
+#. Text in function
+#: untitled folder/shortcodes/or_carousel_images.php:112
+msgid "No images upload"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:12
+msgid "No items selected"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:161
+msgid "No, Thanks!"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:229
+msgid "Notice: CSS must contain selectors"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:37
+msgid "Notice: CSS must contain selectors."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:50
+msgid "Notice: CSS must not contain selectors."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:43
+msgid "Notice: The content below is the latest that you copied."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:310
+msgid "Notice: This function isn’t activated when you are typing in an input box or textarea"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:168
+msgid "Notice; There are 3 icons packs use in originbuilder as following :"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:707
+msgid "Number of sections"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:880
+msgid "Open column settings"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:802
+msgid "Open row settings"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:982
+msgid "Open settings"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:208
+msgid "Page Settings"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:160
+msgid "Paste all items"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:72
+msgid "Paste copied element"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:154
+msgid "Paste latest item"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:157
+msgid "Paste selected items"
+msgstr ""
+
+#. Text in function
+#: untitled folder/includes/or.templates.php:408
+msgid "Please add New Section or %s"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:23
+msgid "Please enter the new name"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:73
+msgid "Plugin Update"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:33
+msgid "Press Ctrl + S to quick save"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:306
+msgid "Press Ctrl + S to save changes immediately without reloading the builder"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:27
+msgid "Processing..."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.sections.php:19
+msgid "Profile: "
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:551
+msgid "Profiles"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:787
+msgid "Publish / Unpublish this row"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:68
+msgid "Push customized content and shortcodes"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:14
+msgid "Push to selected Section"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:42
+msgid "Push your content"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:146
+msgid "Put this code on action \"init\" to force support"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:679
+msgid "Quick Settings Builder"
+msgstr ""
+
+#. Text in function
+#: untitled folder/shortcodes/or_post_type_list.php:1
+#: untitled folder/shortcodes/or_carousel_post.php:1
+#: untitled folder/shortcodes/or_flip_box.php:56
+msgid "Read more"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:565
+msgid "Refresh profile"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:984
+#: untitled folder/includes/or.templates.php:1207
+msgid "Remove"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.param.types.php:180
+#: untitled folder/includes/or.param.types.php:222
+msgid "Remove Selection"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:986
+msgid "Remove this section"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:566
+msgid "Rename this profile"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:15
+msgid "Replace selected Section"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1370
+msgid "Restore deleted items"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:756
+msgid "Row settings"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:210
+#: untitled folder/includes/or.js_languages.php:4
+msgid "Save"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1071
+msgid "Save & close popup"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:308
+msgid "Save Change"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.sections.php:93
+msgid "Saved Successfully"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:235
+msgid "Scroll Assistant"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:258
+msgid "Scroll Prevention"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:39
+msgid "Search Results:"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:9
+msgid "Search by Name"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.sections.php:26
+#: untitled folder/includes/or.templates.php:624
+msgid "Search by name"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:256
+msgid "Secret API Key"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.sections.php:49
+msgid "Section Settings"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:611
+msgid "Sections"
+msgstr ""
+
+#. Text in function
+#: untitled folder/includes/or.actions.php:210
+#: untitled folder/includes/or.settings.php:76
+#: untitled folder/includes/or.templates.php:76
+msgid "Sections Manager"
+msgstr ""
+
+#. Text in function
+#: untitled folder/includes/or.actions.php:210
+msgid "Sections Manager - Origin Builder"
+msgstr ""
+
+#. Text in function
+#: untitled folder/includes/or.param.types.php:1202
+msgid "Select Content Type"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.param.types.php:307
+msgid "Select Image"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:148
+msgid "Select all items"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:13
+msgid "Select one method"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:685
+msgid "Set default layout for sections"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:820
+msgid "Set number of columns for this row"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:48
+msgid "Set number of columns per row."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:546
+#: untitled folder/includes/or.templates.php:1215
+msgid "Settings"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:680
+msgid "Settings will be applied instantly when you change parameter value"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:10
+msgid "Sorry! No Web Storage support."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:46
+msgid "Storage of row in profile."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:783
+msgid "Storage this row in profile"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:28
+msgid "Successful"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:108
+msgid "Supported Content Types"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.param.types.php:118
+msgid "Text"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:63
+msgid "Thank you so much for choosing our product. We  are confident that you’ll be satisfied with powerful features of originbuilder!"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:166
+msgid "The ClipBoard is empty, Please copy elements to clipboard"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:25
+msgid "The File APIs are not fully supported in this browser."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.sections.php:474
+msgid "The category must not be empty"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:7
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:214
+msgid "The class will be added to body tag on the front-end"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.sections.php:94
+msgid "The data is saved in real-time and you do not need to reload the browser even in other tabs"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:40
+msgid "The key you entered was not found."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:21
+msgid "The screenshot helps you easily know the contents of section."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.sections.php:469
+msgid "The title must not be empty"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:289
+msgid "Theme Purchase Code"
+msgstr ""
+
+#. Text in function
+#: untitled folder/includes/or.settings.php:231
+msgid "There is a new version of originbuilder available, please go to %s to update"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.param.types.php:667
+msgid "There was an error with content structure."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:16
+msgid "These fields cannot be empty"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1143
+msgid "This option is available when you choose to set the column amount smaller than the current column amount"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:196
+msgid "Tips"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.sections.php:55
+#: untitled folder/includes/or.js_languages.php:17
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:281
+msgid "Tooltips display"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:30
+msgid "Undo Delete"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:151
+msgid "Unselect all items"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.sections.php:80
+msgid "Update"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:665
+msgid "Upload Now"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:660
+msgid "Upload profile"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:542
+msgid "Upload profile or create new profile"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:177
+#: untitled folder/includes/or.settings.php:185
+#: untitled folder/includes/or.settings.php:193
+msgid "Usage"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:584
+msgid "Use this profile"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:66
+msgid "Version"
+msgstr ""
+
+#. Text in function
+#: untitled folder/shortcodes/or_post_type_list.php:90
+msgid "View all posts by %s"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.param.types.php:117
+msgid "Visual"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:61
+msgid "Welcome to"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:595
+msgid "What is external profile?"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:19
+msgid "Whoops, looks like something went wrong."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:106
+msgid "Widgets"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:159
+msgid "Yes, Please!"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:604
+msgid "Yes, do it please!"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:553
+msgid "You are using profile: "
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:44
+msgid "Your ClipBoard is currently empty. Please copy row or element before pasting!"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.js_languages.php:11
+msgid "Your clipboard is currently empty, please copy elements before pasting."
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.settings.php:142
+msgid "does not show here? Please make sure that has been registered with"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:1305
+msgid "expand / collapse"
+msgstr ""
+
+#. Text in echo
+#: untitled folder/includes/or.templates.php:709
+msgid "will be shown in a page, each load-more scrolling down"
+msgstr ""
